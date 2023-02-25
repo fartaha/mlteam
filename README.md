@@ -11,3 +11,5 @@ Machine Learning TA group @sharif.edu 2023
 4- [Mohaddeseh Mirbeygi](https://github.com/mmirbeygi)
 
 5- [Zeinab Taghavi](https://github.com/zeinabtaghavi)
+
+6- [Sina Rashidi](https://github.com/sinarashidi)
