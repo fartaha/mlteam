@@ -14,4 +14,4 @@ Machine Learning TA group @sharif.edu 2023
 
 6- [Sina Rashidi](https://github.com/sinarashidi)
 
-7- [Taha Heidari](fartaha.github.io)
+7- [Taha Heidari](https://fartaha.github.io)
