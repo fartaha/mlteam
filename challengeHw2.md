@@ -15,15 +15,19 @@ $$\begin{aligned}
 \end{aligned}$$
 
 
-$$
-\begin{array}{ccccccc}
-\hline & \multicolumn{3}{c}{\text { Topic 2 }} & & \multicolumn{2}{c}{\text { Topic 3 }} \\
-\cline { 2 - 4 } \cline { 6 - 7 } \text { Topic 1 } & \text { A } & \text { B } & \text { C } & \text { D } & \text { E } \\
-\hline \text { row1 } & \text { A.1 } & \text { B.1 } & \text { C.1 } & & \text { D.1 } & \text { E.1 } \\
-\text { row2 } & \text { A.2 } & \text { B.2 } & \text { C.2 } & & \text { D.2 } & \text { E.2 } \\
-\text { row3 } & \text { A.3 } & \text { B.3 } & \text { C.3 } & & \text { D.3 } & \text { E.3 } \\
-\text { row4 } & \text { A.4 } & \text { B.4 } & \text { C.4 } & & \text { D.4 } & \text { E.4 } \\
-\text { row5 } & \text { A.5 } & \text { B.5 } & \text { C.5 } & & \text { D.5 } & \text { E.5 } \\
-\hline
-\end{array}
-$$
+$$\begin{table}[h]
+\centering
+\begin{tabular}{cccccc}
+\toprule
+\multicolumn{1}{c}{} & \multicolumn{3}{c}{\textbf{Topic 2}} & \multicolumn{2}{c}{\textbf{Topic 3}} \\
+\cmidrule(rl){2-4} \cmidrule(rl){5-6}
+\textbf{Topic 1} & {A} & {B} & {C} & {D} & {E} \\
+\midrule
+row1 & A.1 & B.1 & C.1 & D.1 & E.1 \\
+row2 & A.2 & B.2 & C.2 & D.2 & E.2 \\
+row3 & A.3 & B.3 & C.3 & D.3 & E.3 \\
+row4 & A.4 & B.4 & C.4 & D.4 & E.4 \\
+row5 & A.5 & B.5 & C.5 & D.5 & E.5 \\
+\bottomrule
+\end{tabular}
+\end{table}$$
