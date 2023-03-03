@@ -8,7 +8,7 @@ $$\begin{aligned}
 &\begin{array}{lccc}
 \hline & & \text { Linear } & \text { Ridge }  & \text { Lasso } \\
 \hline & & \text { RMSE, R2, MSE } & \text { RMSE, R2, MSE } & \text { RMSE, R2, MSE }\\
-\hline \text { your id }\\
+\hline &\text { your id }\\
 1 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
 2 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
 3 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
