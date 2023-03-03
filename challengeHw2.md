@@ -28,4 +28,27 @@ $$\begin{aligned}
 \end{array}
 \end{aligned}$$
 
-RMSE 
+$$\begin{aligned}
+&\text { Table 2: Decision Tree Models. }\\
+&\begin{array}{lccc}
+\hline & & \text { Model1 } & \text { Model2 }  & \text { Model3 } \\
+\hline & & \text { max_depth, min_samples_split, Test Accuracy } & \text { max_depth, min_samples_split, Test Accuracy } & \text { max_depth, min_samples_split, Test Accuracy }\\
+\hline &\textbf { your id }\\
+1 & \text { 999687 } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+2 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+3 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+4 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+5 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+6 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+7 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+8 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+9 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+10 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+11 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+12 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+13 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+14 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+15 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+\hline
+\end{array}
+\end{aligned}$$
