@@ -15,7 +15,7 @@ $$\begin{aligned}
 \end{aligned}$$
 
 
-\begin{table}[h]
+$$\begin{table}[h]
 \centering
 \begin{tabular}{>{\columncolor{lavender}}cccccc}
 \toprule
@@ -30,4 +30,4 @@ row4 & A.4 & B.4 & C.4 & D.4 & E.4 \\
 row5 & A.5 & B.5 & C.5 & D.5 & E.5 \\
 \bottomrule
 \end{tabular}
-\end{table}
+\end{table}$$
