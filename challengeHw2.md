@@ -32,7 +32,7 @@ $$\begin{aligned}
 &\text { Table 2: Decision Tree Models. }\\
 &\begin{array}{lccc}
 \hline & & \text { Model1 } & \text { Model2 }  & \text { Model3 } \\
-\hline & & \text { max_depth, min_samples_split, Test Accuracy } & \text { max_depth, min_samples_split, Test Accuracy } & \text { max_depth, min_samples_split, Test Accuracy }\\
+\hline & & \text { max_depth, min\_samples\_split, Test Accuracy } & \text { max\_depth, min\_samples\_split, Test Accuracy } & \text { max\_depth, min\_samples\_split, Test Accuracy }\\
 \hline &\textbf { your id }\\
 1 & \text { 999687 } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
 2 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
