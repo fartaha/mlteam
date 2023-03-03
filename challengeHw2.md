@@ -8,7 +8,7 @@ $$\begin{aligned}
 &\begin{array}{lcc}
 \hline & \text { Linear } & \text { Ridge }  & \text { Lasso } \\
 \hline & \text { RMSE, R2, MSE } & \text { RMSE, R2, MSE } & \text { RMSE, R2, MSE }\\
-\hline \text { John Smith } & 1 & 2 \\
+\hline \text { 999687 } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
 \text { Jane Doe } & - & 3 \\
 \text { Mary Johnson } & 4 & 5 \\
 \hline
