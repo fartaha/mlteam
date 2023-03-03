@@ -5,7 +5,7 @@
 
 $$\begin{aligned}
 &\text { Table 1: Regression Models. }\\
-&\begin{array}{lcc}
+&\begin{array}{lccc}
 \hline & \text { Linear } & \text { Ridge }  & \text { Lasso } \\
 \hline & \text { RMSE, R2, MSE } & \text { RMSE, R2, MSE } & \text { RMSE, R2, MSE }\\
 \hline \text { 999687 } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
