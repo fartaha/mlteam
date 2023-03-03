@@ -6,7 +6,7 @@
 $$\begin{aligned}
 &\text { Table 1: Regression Models. }\\
 &\begin{array}{lcc}
-\hline & \text { Linear } & \text { Ridge } & \text { Lasso } \\
+\hline & \text { Linear } & \text { Ridge \n RMSE } & \text { Lasso } \\
 \hline \text { John Smith } & 1 & 2 \\
 \text { Jane Doe } & - & 3 \\
 \text { Mary Johnson } & 4 & 5 \\
