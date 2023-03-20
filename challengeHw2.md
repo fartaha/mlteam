@@ -9,7 +9,7 @@ $$\begin{aligned}
 \hline & & \text { Linear } & \text { Ridge }  & \text { Lasso } \\
 \hline & & \text { RMSE, R2, MSE } & \text { RMSE, R2, MSE } & \text { RMSE, R2, MSE }\\
 \hline &\textbf { your id }\\
-1 & \text { 999687 } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+1 & \text { 401204919 } & 2.121282,-0.001406,4.500689 & 2.114390,-0.002188,4.470795 & 2.110680,-0.000695,4.455118\\
 2 & \text { 1000373 } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
 3 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
 4 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
@@ -34,7 +34,7 @@ $$\begin{aligned}
 \hline & & \text { Model1 } & \text { Model2 }  & \text { Model3 } \\
 \hline & & \text { maxDepth, minSamplesSplit, testAccuracy } & \text { maxDepth, minSamplesSplit, testAccuracy } & \text { maxDepth, minSamplesSplit, testAccuracy }\\
 \hline &\textbf { your id }\\
-1 & \text { 999687 } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
+1 & \text { 401204919 } & 1,2,0.203 & 2,5000,0.2126 & 3,2000,0.2126 \\
 2 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
 3 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
 4 & \text { your id } & 0.0,0.0,0.0 & 0.0,0.0,0.0 & 0.0,0.0,0.0 \\
